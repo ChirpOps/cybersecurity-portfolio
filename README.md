@@ -33,3 +33,6 @@ One moment that stood out to me during the CTF was dealing with a restricted env
 Instead of stopping, I adapted. I extracted the raw data in a portable form, moved it out of the restricted environment, and rebuilt it so I could analyze it with external tools. That workaround let me continue the investigation and complete the task despite the limitations.
 
 The experience reinforced something important: even when the environment is locked down, you can still make progress if you understand how data is structured and you're willing to think creatively.
+
+NCL Fall 2025 Individual Game, Credential URL: cyberskyline.com/report/TNXFJT24BREL
+NCL Fall 2025 Team Game Scouting Report: cyberskyline.com/report/C8NKBW5H1167
